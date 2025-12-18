@@ -1,15 +1,35 @@
 # Narrating-Inflation
-This repository contains the data from my research project on inflation narratives in Germany, specifically focusing on how economic journalists and economists explain post-Covid price rises. The data is presented in the form of PDF and RData files.
 
-## PDF Files
+This repository contains data and materials for a research project on inflation narratives in Germany in 2022, focusing on how economic journalists and professional economists explain the inflation surge and how these explanations relate to media coverage.
 
-The PDF files contain the questions that were administered to the participants of my research. All questions were handed out in German but translated into English here.
+## Contents
 
-## RData Files
+- `questionnaires/`  
+  Survey questionnaires administered to participants (German originals; English translations where applicable).
 
-The RData files contain the responses of both groups of participants. The data has been cleaned to protect anonymity.
+- `data`
+  - `responses_experts.RData` – cleaned survey responses (experts)
+  - `responses_journalists.RData` – cleaned survey responses (journalists)
+  - `narratives_itemized.csv` – itemized narrative representations (bag-of-items)
+
+- `code/`
+  Script to reproduce key figures of narrative analysis reported in the paper.
+
+## Data description
+
+The survey data contain responses from two groups (economic journalists and economists). Variables include closed-ended assessments of inflation drivers and persistence, as well as open-ended narrative responses.
 
 
-# License
+## License and use restrictions
 
-The data can only be used under the Attribution-NonCommercial-NoDerivatives 4.0 International license (See LICENSE.md)
+This repository is licensed under **CC BY-NC-ND 4.0** (see `LICENSE.md`).
+- Attribution required.
+- Non-commercial use only.
+- No distribution of modified versions of the data.
+
+If you need a different license arrangement for academic replication, please contact the author.
+
+
+## Contact
+
+Tobias Schmidt — <tobias3.schmidt@tu-dortmund.de>
