@@ -7,7 +7,7 @@ This repository contains data and materials for a research project on inflation 
 - `questionnaires/`  
   Survey questionnaires administered to participants (German originals; English translations where applicable).
 
-- `data`
+- `data/`
   - `responses_experts.RData` – cleaned survey responses (experts)
   - `responses_journalists.RData` – cleaned survey responses (journalists)
   - `narratives_itemized.csv` – itemized narrative representations (bag-of-items)
