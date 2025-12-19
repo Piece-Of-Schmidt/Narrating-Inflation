@@ -191,10 +191,10 @@ um_df2 = data.frame(
 
 # plot
 ggplot(um_df2, aes(UMAP1, UMAP2)) +
-  geom_point(aes(color=Group), size=3, alpha=.7) +
-  stat_ellipse(aes(group = Group), type = "norm", level = 0.68, linewidth = 1) + 
+  geom_point(aes(color = Group), size = 3, alpha = .7) +
+  stat_ellipse(aes(color = Group, group = Group), type = "norm", level = 0.68, linewidth = 1) + 
   theme_bw() +
-  scale_color_manual(values =  viridis::viridis(n=9)[c(9,2,8,5)])
+  scale_color_manual(values = viridis::viridis(n=9)[c(9,2,8,5)])
 
 
 # cluster groups ----------------------------------------------------------
@@ -212,8 +212,9 @@ um_df = data.frame(
 
 # plot
 ggplot(um_df, aes(UMAP1, UMAP2)) +
-  geom_point(aes(color=Group, shape=Cluster), size=3, alpha=.7) +
+  geom_point(aes(color = Group, shape = Cluster), size = 3, alpha = .7) +
   stat_ellipse(aes(group = Cluster), type = "norm", level = 0.68, linewidth = 1) + 
   theme_bw() +
-  scale_color_manual(values =  viridis::viridis(n=9)[c(2,5)])
+  scale_color_manual(values = viridis::viridis(n=9)[c(2,5)])
+
 
