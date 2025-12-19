@@ -101,7 +101,7 @@ rect.hclust(hc, k = 2, border = "red")
 
 # get clusters
 clusters = cutree(hc, k=2)
-cluster_features = aggregate(m, by=list(cluster=clusters), FUN=mean)
+cluster_features = aggregate(X, by=list(cluster=clusters), FUN=mean)
 apply(cluster_features[,-1], 1, sort, decreasing = T, simplify=F)
 
 # get cluster differences
