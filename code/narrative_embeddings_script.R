@@ -171,31 +171,44 @@ fisher.test(tab)
 # UMAP projection of narrative space
 # -------------------------------------------------------------------------
 
-# get projection
-set.seed(123)
-um = umap(X)
 
-# associate with groups
-group_info = factor(sub("\\d+","",rownames(X)))
+# no clusters -------------------------------------------------------------
+
+# calculate mean embeddings per group
+e_mean = apply(dfm[grepl("expert", rownames(dfm)),], 2, mean)
+j_mean = apply(dfm[grepl("journalist", rownames(dfm)),], 2, mean)
+df = rbind(dfm, expert_mean = as.dfm(t(data.frame(e_mean))), journalist_mean = as.dfm(t(data.frame(j_mean))))
+
+# get projection
+set.seed(100); um2 = umap(df)
+
+# build df
+um_df2 = data.frame(
+  UMAP1 = um2$layout[,1],
+  UMAP2 = um2$layout[,2],
+  Group = factor(sub("\\d+","",rownames(df)))
+)
+
+# plot
+ggplot(um_df2, aes(UMAP1, UMAP2)) +
+  geom_point(aes(color=Group), size=3, alpha=.7) +
+  stat_ellipse(aes(group = Group), type = "norm", level = 0.68, linewidth = 1) + 
+  theme_bw() +
+  scale_color_manual(values =  viridis::viridis(n=9)[c(9,2,8,5)])
+
+
+# cluster groups ----------------------------------------------------------
+
+# get projection
+set.seed(100); um = umap(X)
+
+# build df
 um_df = data.frame(
   UMAP1 = um$layout[,1],
   UMAP2 = um$layout[,2],
   Cluster = factor(clusters),
-  Group = group_info
+  Group = factor(sub("\\d+","",rownames(X)))
 )
-
-
-# no clusters -------------------------------------------------------------
-
-# plot
-ggplot(um_df, aes(UMAP1, UMAP2)) +
-  geom_point(aes(color=Group), size=3, alpha=.7) +
-  stat_ellipse(aes(group = Group), type = "norm", level = 0.68, linewidth = 1) + 
-  theme_bw() +
-  scale_color_manual(values =  viridis::viridis(n=9)[c(2,5)])
-
-
-# cluster groups ----------------------------------------------------------
 
 # plot
 ggplot(um_df, aes(UMAP1, UMAP2)) +
@@ -203,5 +216,4 @@ ggplot(um_df, aes(UMAP1, UMAP2)) +
   stat_ellipse(aes(group = Cluster), type = "norm", level = 0.68, linewidth = 1) + 
   theme_bw() +
   scale_color_manual(values =  viridis::viridis(n=9)[c(2,5)])
-
 
