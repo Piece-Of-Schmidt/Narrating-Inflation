@@ -1,0 +1,433 @@
+group,case,quote,category
+expert,6,"die Corona-Krise, die bereits bestehende Lieferengpässe verstärkt hat, also das Angebot verknappt hat",supply chains
+expert,6,Diese Lieferschwierigkeiten halten an,supply chains
+expert,6,durch die sich erholende Nachfrage,pent-up demand
+expert,6,in Kombination mit Konjunkturpaketen gab es zusätzlich Druck,fiscal programs
+expert,6,"der Ukraine-Krieg, der die bereits vorher gestiegenen Energie-Preise in unbekannte Höhe getrieben hat",energy
+expert,12,Durch den Einbruch der Mobilität im April 2020 wurde im Mai 2020 die Rohölproduktion stark heruntergefahren,energy
+expert,12,sind durch die Pandemie Lieferketten zusammengebrochen,supply chains
+expert,12,"starken Preisreaktionen bei unverarbeiteten Lebensmitteln, Industrierohstoffen",raw materials
+expert,12,Die Energiekrise hat sich dann durch den Krieg Russlands gegen die Ukraine verschärft,energy
+expert,12,durch angespannte Lieferketten,supply chains
+expert,12,steigende Energie- und Rohstoffpreise angetrieben,energy
+expert,12,"in den USA von der Nachfrageseite her getrieben. Dies liegt an den unterschiedlichen fiskalpolitischen Reaktionen auf die Corona-Rezession (USA: Konsumgutscheine, Europa: Liquiditätshilfen für vom Lockdown betroffene Unternehmen und Kurzarbeitergeld)",fiscal programs
+expert,12,auf dem höhere Löhne einfacher durchzusetzen waren,labor
+expert,13,"folge in den Industrieländern ab Sommer 2022 wieder ein synchrones Anfahren der Produktion. Dies hat zu einem globalen Nachfrageüberhang geführt, da die Läger auch wieder aufgefüllt werden mussten",pent-up demand
+expert,13,Folge war eine sich aufbauender Lieferengpass in vielen verschiedenen Bereichen,supply chains
+expert,13,eine Unwucht bei den Frachtcontainern und der vorhandenen Schiffkapazitäten in der Folge für eine Verteuerung der internationalen Frachtraten geführt,supply chains
+expert,13,Wiederkehrende Lockdowns auch in China verschärften immer wieder die Lieferproblematik,china lockdown
+expert,13,Mit dem Ausbruch des Abgriffskriegs Russlands in der Ukraine wurde die Edrgasversorgung Europas ein nächster wichtiger Engpass. Erst verteuerte sich Erdgas und in der Folge Strom,energy
+expert,13,spielten in einigen Bereichen Post-Corona getrieben Nachholeffekte eine wichtige Rolle,pent-up demand
+expert,13,um erlittene Verluste um höhere Preise auszugleichen,profiteering
+expert,16,Energiepreise,energy
+expert,16,importierte Inflation,imported inflation
+expert,16,Krieg,war
+expert,16,Lieferkettenengpässe,supply chains
+expert,16,Knappheiten auf vielen Märkten,shortages
+expert,18,"Der Anstieg der Energiepreise, insb. Gas und daraufhin Strom.",energy
+expert,19,hat die Pandemie zu einer Beeinträchtigung des Angebots von Gütern und Dienstleistungen geführt,corona
+expert,19,"die expansive Geld- und Fiskalpolitik verhindert, dass die Einkommen der Haushalte gefallen sind",ecb
+expert,19,"die expansive Geld- und Fiskalpolitik verhindert, dass die Einkommen der Haushalte gefallen sind",fiscal programs
+expert,19,"ein Sparüberschuss resultierte, der später und bis in 3 .Quartal 2022 einen Nachholkonsum finanziert hat",pent-up demand
+expert,19,Die Deglobalisierung,deglobalization
+expert,19,"in gewissem Ausmass auch der demographische Wandel führen ebenfalls dazu, dass gewisse importierte Güter teurer werden",other
+expert,19,der Krieg in der Ukraine zu höheren Lebensmittelpreisen,raw materials
+expert,19,der Krieg in der Ukraine zu höheren Lebensmittelpreisen und Energiekosten,energy
+expert,20,stark gestiegenen Energiepreise,energy
+expert,20,stiegen mit etwas Zeitverzögerung auch die Preise von Industriegütern und Lebensmiteln,raw materials
+expert,20,angebotseitige Verknappung von Gütern aufgrund von Lieferengpässen durch Corona Maßnahmnen,supply chains
+expert,20,gewissen Nachholeffekte im Konsum stattfinden,pent-up demand
+expert,21,im Zuge der Corona-Krise wurde die Produktion zurückgefahren,corona
+expert,21,Dieses sinkende Angebot traf auch eine recht hohe Nachfrage im Zuge der konjunkturellen Erholung,pent-up demand
+expert,21,was zu Lieferengpässen und steigenden Preisen führte,supply chains
+expert,21,Die Energiepreise stiegen aufgrund der wirtschaftlichen Erholung nach Corona,energy
+expert,21,Die Ukraine-Krise hat die Energiepreise zusätzlich befeuert,energy
+expert,25,die dadurch ausgelöste Lieferkettenproblematik,supply chains
+expert,25,die 2021 auf eine sich erholende Konsumnachfrage traf,pent-up demand
+expert,25,den Krieg in der Ukraine,war
+expert,25,die resultierende Energiekrise,energy
+expert,26,aufgrund von Engpässen in Lieferketten,supply chains
+expert,26,aufgrund von hohem Konsum in einzelnen Branchen,pent-up demand
+expert,26,aufgrund der starken finanziellen Unterstützung während der Corona-Krise (z.B. durch KUG oder Mehrwertsteuersenkung),fiscal programs
+expert,26,Krieg in der Ukraine,war
+expert,26,Sanktionen gegen Russland,sanctions
+expert,27,der Wiederanstieg des Ölpreises nach dessen deutlichen Rückgang zu Beginn der Pandemie,energy
+expert,27,Verstärkt wurde der Effekt durch statistische Basiseffekte,statistical effects
+expert,27,die Rückführung der temporären Mehrwertsteuersenkung in Deutschland,statistical effects
+expert,27,Auch hier haben Basiseffekte den Anstieg verstärkt,statistical effects
+expert,27,die veränderte Konsumnachfrage während der Pandemie,pent-up demand
+expert,27,die auf Kapazitätsengpässe traf und die Lieferketten überlastete,supply chains
+expert,27,Lockdowns in China haben die Lieferengpässe in Zeiten einer überhöhten Nachfrage verschärft,china lockdown
+expert,27,"Später in 2021 kamen die gedrosselten Gaslieferungen Russlands hinzu, die den Gaspreis nach oben trieben",energy
+expert,27,der Überfall Russlands auf die Ukraine ließ die Gaspreise vollends explodieren,energy
+expert,27,"die Preissprünge bei wichtigen Rohstoffen und Vorleistungsgütern sind so hoch, dass sie durch die ganze Wertschöpfungskette weitergereicht werden",raw materials
+expert,30,Lieferkettenengpässe im Zuge der Corona-Krise,supply chains
+expert,30,Energieengpässe schon im Vorfeld der Ukraine-Invasion,energy
+expert,30,Zuletzt tragen auf Fachkräfteengpässe vermehrt bei,labor
+expert,30,Die Geldpolitik der EZB spielt nur ein marginale Rolle,ecb
+expert,30,Angebotsengpässe waren die Hauptursache,shortages
+expert,31,"Anstieg der Rohstoffpreise, insbesondere für Energie, im Zuge des russichen Angriffskrieges auf die Ukraine",energy
+expert,31,die aufgestaute Konsumnachfrage in Folge der Coronapandemie,pent-up demand
+expert,31,weiterhin brüchigen Lieferketten,supply chains
+expert,31,sehr niedrigen Realzinsen,low real interest rates
+expert,33,Die hohen Energiepreise im Zusammenhang mit dem Russland Krieg,energy
+expert,33,die stark gestiegenen Nahrungsmittelpreise,raw materials
+expert,33,die Lieferkettenproblematik,supply chains
+expert,33,die Corona-Pandemie,corona
+expert,37,Lieferkettenprobleme,supply chains
+expert,37,Materialknappheiten im Energiesektor,energy
+expert,37,Politische Unsicherheiten durch den Ukraine-Konflikt,uncertainties
+expert,43,angebotsseitiger Schock,shortages
+expert,43,Lieferengpässe,supply chains
+expert,43,Materialmangel,shortages
+expert,44,gestörte Lieferketten,supply chains
+expert,44,Versorgungsengpässe,shortages
+expert,44,rasante Preiserhöhung der importierten Energieträger Öl und Gas,energy
+expert,44,zwischenzeitlich verbreiteten Inflationserwartungen,expectations
+expert,46,Die Politik der EZB hat teilweise zu höher Inflation geführt,ecb
+expert,46,Es gab zu viel und zu lang QE,ecb
+expert,46,die EZB hat deutlich zu spät mit Straffung angefangen,ecb
+expert,46,steigende Energie Preisen sind auch ein Faktor,energy
+expert,46,die Probleme mit Lieferketten,supply chains
+expert,47,der Nachfrageboom nach Wiedereröffnung der Wirtschaft nach der Pandemie,pent-up demand
+expert,47,angebotsseitige Probleme etwa Lieferkettenengpässe,supply chains
+expert,47,seit Feb 2022 auch der Krieg in der Ukraine,war
+expert,47,Zahlreiche fiskalische Stützungsmaßnahmen,fiscal programs
+expert,47,die hohe Bereitstellung zusätzlicher Liquidität dürften zumindest auch nicht disinflationär gewirkt haben,ecb
+expert,47,Das (zu) lange Festhalten an PEPP und APP war rückblickend ein Fehler,ecb
+expert,51,Vor allem der Energiepreisschock,energy
+expert,51,angebotsseitige Lieferstörungen,supply chains
+expert,51,die seit Jahren expansive Gelpolitik,ecb
+expert,52,"der Haupttreiber der Anstieg der Energiepreise, der sich deutlich infolge des Ukraine-Krieges verstärkt hat",energy
+expert,52,die Probleme mit den Lieferketten,supply chains
+expert,52,Eine stabile Nachfrage (Kurzarbeitergeld),fiscal programs
+expert,52,Nachholeffekte,pent-up demand
+expert,52,stießen auf ein begrenztes Angebot,shortages
+expert,53,"Die Preise für Öl, Gas und Strom sind wegen des Ukraine-Kriegs gestiegen.",energy
+expert,53,"Die Importpreise sind durch Disruption globaler Lieferketten, vor allem bzgl. Importen aus China, gestiegen.",supply chains
+expert,53,Fachkräftemangel führt zu höheren Kosten für Unternehmen.,labor
+expert,58,,strong global economy
+expert,58,,supply chains
+expert,58,,corona
+expert,58,,corona
+expert,58,,supply chains
+expert,58,,sanctions
+expert,58,,sanctions
+expert,58,,energy
+expert,58,,raw materials
+expert,58,,labor
+expert,59,haben sich die Energiepreise seit Herbst 2021 und dann ab März 2022 deutlich erhöht,energy
+expert,59,"dies nicht allein auf Öl, sondern auch auf Gas und Strom zurückzuführen",energy
+expert,59,traten seit Sommer 2021 Angebotsengpässe durch verzögerte Lieferungen aus anderen Ländern (z. B. China auf),supply chains
+expert,59,"führte die Wiedereröffnung der Wirtschaft nach dem Ende des Lockdowns zu erheblichen Preisanpassungen bei Restaurants, Hotels",pent-up demand
+expert,59,haben sich die Kosten für die Unternehmen massiv erhöht,other
+expert,61,Lieferkettenprobleme im Zuge der Covid-19-Krise,supply chains
+expert,61,zu einer Verknappung bei wichtigen Vor- und Zwischenprodukten geführt,shortages
+expert,61,ein Anstieg der Energiepreise zu beobachten und der von Russland begonnene Ukrainekrieg hat hier ab Februar 2022 für einen massiven Preisschub gesorgt,energy
+expert,62,Folge der weltweit expansiven Wirtschaftspolitik während der Corona-Zeit,fiscal programs
+expert,62,Einfluss gestörter Lieferketten,supply chains
+expert,62,Die expansive Wirtschaftspolitik hat auch auf die heutige Inflation Einfluss,fiscal programs
+expert,62,der größte Teil kommt von der Energiekrise,energy
+expert,62,der US-Dollar relativ an Stärke gewonnen haben dürfte,exchange rate
+expert,62,"eine post-Corona-Situation, die viele private Haushalte zu geringerer Ersparnis anregen",pent-up demand
+expert,63,"Der Angebotsrückgang im Energiebereich, der sowohl selbst die Inflation treibt und auch insbesondere über energieintesive Produktionsprozesse zu weiteren Preissteigerungen führt",energy
+expert,63,Liferengpässe (insbesondere aus China) zu produktspezifischen Preissteigerungen,supply chains
+expert,65,Steigende Nachfrage durch Erholung der Wirtschaft nach Corona,pent-up demand
+expert,65,Lieferkettenprobleme,supply chains
+expert,65,steigende Energiepreise,energy
+expert,66,Energiekrise mit den damit verbundenen,energy
+expert,66,Lieferkettenproblemen,supply chains
+expert,66,deutlich gestiegenen Energiekosten,energy
+expert,66,den daraus resultierenden Unsicherheiten,uncertainties
+expert,68,Dies führte zu einer massiven Zunahme der Nachfrage nach handelbaren Gütern,pent-up demand
+expert,68,Gleichzeitig kam es zu einem Druck auf die globalen Lieferketten aufgrund von Angebotsfaktoren,supply chains
+expert,68,der bereits vergessene Anstieg der Gaspreise um 2021 in Verbindung mit dem rasanten Preisanstieg nach Ausbruch des Krieges in der Ukraine,energy
+expert,68,Das letzte fehlende Element ist der Druck auf die Löhne,labor
+expert,70,Corona-Pandemie,corona
+expert,70,Lieferkettenfriktionen,supply chains
+expert,70,Energiepreiskrise,energy
+expert,73,Kostensteigerungen (insb. Energie),energy
+expert,73,Auflösung von Ersparnissen aus der Corona-Pandemie,pent-up demand
+expert,73,expansive Geldpolitik der EZB,ecb
+journalist,2,Die Corona-Pandemie,corona
+journalist,2,der Ukraine-Krieg,war
+journalist,2,damit verbundene Lieferengpässe,supply chains
+journalist,2,stark steigende Energiepreise,energy
+journalist,2,Nahrungsmittelpreise durch Veränderungen im Export- und Import,raw materials
+journalist,3,die Inflationsrate der Energiepreisschock,energy
+journalist,3,Erst angespannte Lieferketten,supply chains
+journalist,3,der Ukrainekrieg haben Gas und Öl stark verteuert,energy
+journalist,3,Die Hilfsprogramme und Überersparnisse aus der Coronazeit,fiscal programs
+journalist,4,"Durch die Corona-Krise und die restriktiven Maßnahmen in vor allem China, gibt es bei einigen Produkten eine Verknappung",china lockdown
+journalist,4,Auch der Fachkräftemangel führt zu einer Preissteigerung in diversen Dienstleistungen,labor
+journalist,4,Hinzu kommen die explodierenden Energiepreise (durch den Krieg in der Ukraine),energy
+journalist,5,"die steigenden Energiekosten geführt, die durch den Krieg in der Ukraine ausgelöst wurden",energy
+journalist,5,hat die Corona-Pandemie dazu beigetragen,corona
+journalist,7,Die Corona-Krise hat zu Verknappungen,shortages
+journalist,7,Lieferkettenunterbrechungen,supply chains
+journalist,7,nach der Pandemie hat es eine verstärkte Nachfrage nach vielen Gütern wegen Nachholeffekten gegeben,pent-up demand
+journalist,7,Transportkosten stiegen,raw materials
+journalist,7,"auch Energiepreise. Treibstoffe, Strom und Gas sind vor allem seit Ausbruch des Ukraine-Krieges rasant gestiegen",energy
+journalist,7,weil russisches Gas und Öl sanktioniert sind,sanctions
+journalist,8,langfristige Effekte aufgrund der Lieferkettenprobleme in Folge der Corona-Pandemie,supply chains
+journalist,8,die gestiegenen Energiepreise in Folge der Sanktionen gegen Russland,sanctions
+journalist,8,Inwiefern die lockere Gelpolitik der EZB eine Rolle spielt,ecb
+journalist,9,hohen Energiepreise,energy
+journalist,9,Diese sind vor  allem infolge des Ukrainekriegs und der Gasknappheit gestiegen,energy
+journalist,10,"das Ende der Corona-Maßnahmen in vielen Ländern, die dadurch wieder steigende Konsumgüter-Nachfrage",pent-up demand
+journalist,10,die auf noch nicht wieder vollständig funktionierende Lieferketten traf,supply chains
+journalist,10,"eine Angebotsverknappung, insbesondere durch strenge Corona-Maßnahmen in China, was Lieferungen von Produkten und Vorprodukten aus China verzögert oder verhindert hat",china lockdown
+journalist,10,Teilweise waren die Häfen gesperrt oder die Abfertigung der Schiffe hat sich verzögert,supply chains
+journalist,10,"Mit dem Kriegsbeginn in der Ukraine kam zu der ohnehin schon angespannten Situation noch ein Sprung der Rohstoffpreise, insbesondere Öl und Gas",energy
+journalist,11,Energiepreisanstieg im Zuge des Ukrainekriegs,energy
+journalist,11,Nachwirkungen der Corona-Pandemie auf die Lieferketten,supply chains
+journalist,11,Zweitrundeneffekte über höhere Löhne,labor
+journalist,12,Der starke Anstieg der Energiepreise infolge des russischen Kriegs gegen die Ukraine,energy
+journalist,12,"Das Ende der preisdämpfenden Wirkung von Globalisierung (Lieferketten, Kosteneffekte durch internationale Arbeitsteilung)",deglobalization
+journalist,12,weil Lieferketten und internationale Verflechtung nicht mehr so gut funktionieren,supply chains
+journalist,15,"Kriegsvorbereitungen Russlands mit gezielter Verknappung der Energielieferungen nach Deutschland, schon vor Beginn des Angriffskrieges, nämlich seit Herbst vorigen Jahres, die Energiepreise kontinuierlich steigen lassen",energy
+journalist,15,"haben die beschränkten Ausgabemöglichkeiten während der Pandemie zu Nachholeeffekten geführt, also zu verstärktem Kauf- und Ausgabeverhalten",pent-up demand
+journalist,15,den allseits bekannten Produktions- und Lieferproblemen durch die Pandemie zu einer Verknappung des Angebotes in vielen Bereichen der Wirtschaft,supply chains
+journalist,15,Wechsel vieler Beschäftigter in klassischen DL-Berufen in andere Branchen,labor
+journalist,15,"die russischen Maßnahmen zur Reduzierung vor allem von Erdgas-Lieferungen, als auch die angekündigten und durchgeführten Boykottmaßnahmen gegen Russland (Importstopp für Erdöl) die Energiepreise weiter in die Höhe trieben",sanctions
+journalist,15,Zukauf von Energieträgern aus anderen Ländern ist teurer,energy
+journalist,15,Das Leerkaufen des Weltmarktes an Energieträgern trieb die Preise auch weiter in die Höhe,energy
+journalist,15,"die nötige Schaffung neuer Infrastruktur (LNG-Terminals, Transportkapazitäten buchen) preistreibend aus",energy
+journalist,15,"die Tatsache, dass sich die OPEC weigerte, in Reaktion auf die gestiegene Nachfrage und explodierende Preise die Fördermengen zu erhöhen",energy
+journalist,15,"haben auch die Sanktionen gegen Russland dazu geführt, dass die Preise, vor allem im Energiesektor, drastisch stiegen",sanctions
+journalist,16,Der Anstieg der Energiepreise,energy
+journalist,16,die Lieferkettenproblematik,supply chains
+journalist,16,höhere Löhne,labor
+journalist,16,eine stark ausgeweitete Geldmenge,ecb
+journalist,16,Hinzu kommt die sehr vorsichtige Reaktion der Europäischen Zentralbank,ecb
+journalist,16,zeigen sich private Haushalte nach dem fast erzwungenen Sparen während der Epidemie ausgabebereit,pent-up demand
+journalist,17,Vorrangige Ursache der aktuellen Situation ist ein Nachfrage-Überhang,pent-up demand
+journalist,17,Die späte Anhebung der Leitzinsen durch die EZB hat diesen Überhang bislang nicht wesentlich vermindern können,ecb
+journalist,18,Die Lieferkettenschwierigkeiten haben die Preise für bestimmte Branchen ansteigen lassen,supply chains
+journalist,18,Containerpreise sind aufgrund von Verfügbarkeit und Lockdowns gestiegen,supply chains
+journalist,18,"Hinzu kamen große, milliardenschwere Hilfsprogramme der Regierungen zur Unterstützung in der Coronakrise",fiscal programs
+journalist,18,Der Krieg in der Ukraine hat aber die Lage verschärft,war
+journalist,18,Ohnehin schon hohe Energiepreise - die ja letztes Jahr auch schon deutlich angezogen hatten - sind aufgrund der befürchteten Gasmangellage explodiert,energy
+journalist,18,"Bei Lebensmitteln kommen noch Sondereffekte eben auch durch den krieg hinzu wie bei Weizen und den befürchteten Ernteausfällen, bzw generell in den Kostensteigerungen für Landwirte",raw materials
+journalist,21,Klimawandel,climate change
+journalist,21,Engpässe in den Lieferketten,supply chains
+journalist,21,Corona- Pandemie,corona
+journalist,21,Krieg in der Ukraine,war
+journalist,21,EZB-Politik,ecb
+journalist,23,viele Güter derzeit knapp sind (etwa durch Lieferengpässe),supply chains
+journalist,23,"Produzenten müssen teils teurer einkaufen, dadurch erhöhen sich auch die Preise für den Endkonsumenten",raw materials
+journalist,23,schon vor dem Ukrainekrieg Preissteigerungen im Energiesektor,energy
+journalist,23,die sich durch die Sanktionen gegen Russland noch einmal deutlich verschärft haben,sanctions
+journalist,23,Verzerrungen durch 9-Euro-Ticket und Tankrabatt,statistical effects
+journalist,24,in erster Linie der Krieg in der Ukraine,war
+journalist,24,Dadurch wurde eine enorme Knappheit am Energiemarkt ausgelöst,energy
+journalist,24,nachgelagerte Pandemie-Effekte wie Lieferengpässe,supply chains
+journalist,25,Energieknappheit und die daraus resultierenden erheblich höheren Energiepreise,energy
+journalist,25,höheren Nahrungsmittelpreise,raw materials
+journalist,25,wegen brüchiger Lieferketten schon in der Pandemie gestiegenen Erzeugerpreise,supply chains
+journalist,25,"Die EZB, die die Inflation lange unterschätzt hat, trägt mindestens eine Mitverantwortung",ecb
+journalist,27,Hauptsächlich die Verteuerung von Energien,energy
+journalist,30,"die vielen Rettungspakete während der Covid-Pandemie, das Geld kam bei den Verbrauchern an",fiscal programs
+journalist,30,während der Covid-Pandemie wurde viel Geld gespart. Also konnte danach viel Geld ausgegeben werden - eine typische Nachfrage-Inflation,pent-up demand
+journalist,30,Die neuen Rettungspakete in diesem Jahr,fiscal programs
+journalist,30,die Energiekrise im Zuge des russischen Einmarsch in die Ukraine. Weil Ernergie knapp wurde,energy
+journalist,31,ungebrochen hohen Nachfrage,pent-up demand
+journalist,31,gleichzeitiger Angebotsknappheit,shortages
+journalist,31,Lieferkettenprobleme infolge der Coronakrise,supply chains
+journalist,31,massiven Anstieg der Energiepreise im Ukrainekrieg,energy
+journalist,31,"Konzerne mit Preissetzungsmacht (Mineralölindustrie, Lebensmittelkonzerne, ...) die Chance genutzt zu haben, ihre Margen auszuweiten",profiteering
+journalist,34,Lieferengpässen infolge der Pandemie,supply chains
+journalist,34,Coronabeschränkungen in China,china lockdown
+journalist,34,Unterbrechung von Lieferketten,supply chains
+journalist,34,der Aufschwung nach dem Ende der Coronabeschränkungen in den meisten Ländern der Welt - also die Erhöhung der Nachfrage,pent-up demand
+journalist,34,der Ukrainekrieg mit der damit einhergehenden massiven Verteuerung von Energie,energy
+journalist,36,"die höheren Energiepreise, die zahlreiche Dinge verteuert",energy
+journalist,36,"das Ende der Corona-Pandemie, die zu einer höheren Nachfrage geführt hat",pent-up demand
+journalist,36,"gleichzeitig ist die Angebotsseite nicht stark genug gewachsen, was zu höheren Preisen führt",shortages
+journalist,36,teurere Logistikketten,supply chains
+journalist,38,Die gestiegenen Energiepreise sind wesentlich verantwortlich für den Anstieg der Inflation,energy
+journalist,38,"durch den Ukrainekrieg kam es zu einem Rekord-Preisanstieg bei Energie (Öl-, Gas- und Strompreis)",energy
+journalist,38,die brüchigen Lieferketten im Zuge der Corona-Pandemie (Lieferengpässe),supply chains
+journalist,38,die sprunghaft gestiegene Nachfrage nach den Lockdowns,pent-up demand
+journalist,39,Pandemie,corona
+journalist,39,Krieg (Energiepreisschock),energy
+journalist,39,lockere Fiskalpolitik,fiscal programs
+journalist,39,zu lockere Geldpolitik,ecb
+journalist,40,Durch eine weltweit gewachsene Nachfrage nach dem Corona-Einbruch der Wirtschaft,pent-up demand
+journalist,40,durch angespannte Lieferketten weltweit,supply chains
+journalist,40,besonders im Bereich Energie durch den Krieg in der Ukraine (ausbleibende Gaslieferungen aus Russland),energy
+journalist,40,andere Faktoren wie das Wetter,climate change
+journalist,40,der stark gestiegene Mindestlohn (Erntehelfer),labor
+journalist,41,"der Anstieg der Energiepreise, die sich auf viele weitere Branchen auswirken",energy
+journalist,41,Der Anstieg der Energiepreise wiederum ist direkte Folge des russischen Angriffskriegs gegen die Ukraine,energy
+journalist,43,hohen Energiepreise,energy
+journalist,43,Engpässe bei bei vielen Produkten und Vorprodukten,shortages
+journalist,43,"treffen nach dem Abflauen der Corona-Pandemie auf eine höhere Nachfrage, die entsteht, weil die Menschen wieder vermehrt Geld ausgeben",pent-up demand
+journalist,43,Ohne die viel zu lockere Geldpolitik der EZB in den vergangenen Jahren könnten diese Preise aber nicht so dynamisch steigen,ecb
+journalist,43,zu üppiger Geldschöpfung,ecb
+journalist,45,Die steigenden Energiepreise als Folge des Ukraine-Krieges,energy
+journalist,46,Der aufgestaute Konsum während der Corona-Pandemie führte zu einem Nachfrageschub nach der Wiederöffnung,pent-up demand
+journalist,46,"Dies traf auf ein zu geringes Angebot, wodurch die Preise stiegen",shortages
+journalist,46,"In den USA kamen massive finanzielle Unterstützungen durch den Staat, die weit über die Verluste an Einkommen hinausgingen, dazu",fiscal programs
+journalist,46,sorgten die explodierenden Energiepreise infolge des Angriffs Russlands auf die Ukraine für einen weiteren Preisschub,energy
+journalist,46,kommt die erhöhte Geldmenge aufgrund der Notenbankpolitik der vergangenen Jahre als Beschleuniger hinzu,ecb
+journalist,48,die Folgen der Corona-Pandemie,corona
+journalist,48,der Ukraine-Krieg,war
+journalist,52,Corona Beschränkungen zu Lieferkettenproblemen,supply chains
+journalist,52,Engpässen bei verschiedenen Produkten und Vorprodukten,shortages
+journalist,52,der Ukraine Krieg zu Engpässen bei der Energieversorgung geführt,energy
+journalist,52,"Als diese Lieferungen ausfielen, stieg der Preis für Gas und Strom",energy
+journalist,52,Die hohen Energiekosten sind Hauptgrund für die gestiegene Inflation,energy
+journalist,53,"Wichtigster Faktor seit dem russischen Einmarsch in die Ukraine ist die Energiepreisexplosion, die auch die Inflationsrate nach oben getrieben hat",energy
+journalist,53,"Ein weiterer wichtiger Faktor ist die ultralockere Geldpolitik der EZB, die den Markt über Jahre mit zu viel billigem Geld geflutet hat",ecb
+journalist,53,Die Zinswende wurde zu spät eingeleitet,ecb
+journalist,53,Das billionenschwere Anleihekaufprogramm der EZB ist vor diesem Hintergrund ebenfalls kritisch zu bewerten,ecb
+journalist,55,Energiekrise,energy
+journalist,55,Angriffskrieg von Russland auf die Ukraine,war
+journalist,55,Sanktionen,sanctions
+journalist,55,Null-Covid-Strategie Chinas,china lockdown
+journalist,55,Lieferkettenprobleme,supply chains
+journalist,55,Fachkräftemangel,labor
+journalist,57,Einschränkungen auf der Angebotsseite aufgrund von Lieferengpässen bei wichtigen Vorprodukten wie z.B. Halbleitern,supply chains
+journalist,57,Probleme in den Lieferketten als Folge von Einschränkungen bis hin zu Lockdowns,supply chains
+journalist,57,Auf der Nachfrageseite hat eine starke Nachfrage zu Preissteigerungen bei Rohstoffen geführt,raw materials
+journalist,57,eine gestiegene Ölnachfrage,energy
+journalist,57,Gestiegen sind aber zB auch die Holzpreise,raw materials
+journalist,57,Die höhere Nachfrage hatte unter anderem mit Aufholeffekten nach den ersten Corona-Wellen zu tun,pent-up demand
+journalist,57,"der angespannte Arbeitsmarkt, der zum einen über höhere Löhne und Gehälter die Kosten der Unternehmen erhöhte, zum anderen wegen vieler unbesetzter Stellen das Angebot beschränkte",labor
+journalist,57,die über das gesamte Jahr 2021 noch deutlich expansive Geldpolitik der Europäischen Zentralbank,ecb
+journalist,57,die folgenden Sanktionen gegen Russland einen sprunghaften Anstieg der Preise für Energie,sanctions
+journalist,57,"Nahrungsmittel, Düngemittel und viele andere Rohstoffe",raw materials
+journalist,57,einen schwachen Euro im Verhältnis zum US-Dollar,exchange rate
+journalist,58,Geldpolitik / Lockerungen weltweit,ecb
+journalist,61,der russische Angriffskrieg,war
+journalist,61,die damit verbundene Energiekrise,energy
+journalist,62,weil die Energieversorgung von einem sehr günstiges Niveau durch den kurzfristigen Ausfall von Gaslieferungen und den daraus folgenden massenhaften Ankauf von Gas durch den Staats auf dem Markt die Preise am Spotmarkt stark getrieben hat,energy
+journalist,62,"Der Ausfall der Gaslieferungen, die in Deutschland auch zur Stromerzeugung beitragen",energy
+journalist,62,"Hinzu kommen Lieferkettenprobleme in der Produktion, bedingt durch anhaltende Rückstaus auf den Containerwegen",supply chains
+journalist,62,Ausfällen im Produktionsgebiet China durch Corona-Maßnahmen,china lockdown
+journalist,62,Es herrscht insgesamt Unsicherheit,uncertainties
+journalist,62,zumal auch die Finanzierung und Refinanzierung durch steigende Leitzinsen und endene Anleihenrückkäufe schwieriger geworden ist,ecb
+journalist,63,den Folgen der Corona-Pandemie,corona
+journalist,63,der Lieferkrise,supply chains
+journalist,63,Abschottung Chinas,china lockdown
+journalist,63,Chip-Produktion,shortages
+journalist,63,Container-Staus,supply chains
+journalist,63,dem Ukrainekrieg,war
+journalist,63,"der Energieproblematik (Nordstream 1+2), teures Öl, Kohlekraftwerke länger in Betrieb",energy
+journalist,63,in Verbindung mit der Klimakrise,climate change
+journalist,63,die schwierigen China/USA-Beziehungen,other
+journalist,63,Die dadurch entstandenen Unsicherheiten haben ebenso mental gewirkt,uncertainties
+journalist,66,Hohe Staatsverschuldung,government debt
+journalist,66,Lockere Geldpolitik der EZB,ecb
+journalist,68,gestiegene Energiepreise aufgrund des Ukrainekrieges,energy
+journalist,68,die Sanktionen der Europäischen Union gegen den Gaslieferanten Russland,sanctions
+journalist,69,"Nachholeffekte nach der Corona-Pandemie, also Wachstum nach Lockdowns",pent-up demand
+journalist,69,"aufgestaute globale Nachfrage, z.B. bei Reisen",pent-up demand
+journalist,69,"Lieferengpässe, z.B. Chipmangel",supply chains
+journalist,69,"der Energie-Preisschock nach dem russischen Überfall auf die Ukraine, bei Öl und vor allem bei Gas",energy
+journalist,69,als Folge dessen auch Währungseffekte (schwacher Euro),exchange rate
+journalist,71,Lieferkettenprobleme,supply chains
+journalist,71,Chinas Zero-Covid-Politik,china lockdown
+journalist,71,"Dadurch, dass man versucht hat, die Abhängigkeit von russischer Energie aufzulösen, musste teuer woanders Energie gekauft werden",energy
+journalist,71,"Holz war stark nachgefragt für Heimwerker in der Pandemie, gleichzeitig waren viele Holzanbau-Regionen durch Insekten unabholzbar",raw materials
+journalist,71,"Das Getreide ist teurer, weil viel davon aus der Ukraine kommt",raw materials
+journalist,74,Die globalen Lieferketten sind durch die Corona-Krise gestört,supply chains
+journalist,74,"der Ukraine-Krieg, der die Energiepreise steigen lässt, da Russland seine Energieexporte (vor allem Gas) als Waffe einsetzt",energy
+journalist,74,"haben nicht wenige Firmen die Chance erkannt, die allgemeine Inflationserwartung zu nutzen, um ihre Preise hochzusetzen und damit die Margen zu erhöhen",profiteering
+journalist,75,"die hohen Energiepreise, getrieben durch den Krieg in der Ukraine",energy
+journalist,75,die wiederum die anderen Preise treiben,other
+journalist,78,"die Preise für die Energie, was ursächlich mit dem Krieg in der Ukraine zu tun hat",energy
+journalist,78,dass in der Folge die Nahrungsmittelproduktion und die Nahrungsmittel selber immer teurer wurden,raw materials
+journalist,78,"dass auch manche Unternehmen im Windschatten der eben angesprochenen beiden Punkte die Möglichkeit sahen und ergriffen haben, die Preise zu erhöhen",profiteering
+journalist,80,Energiekrise,energy
+journalist,80,Ukrainekrieg,war
+journalist,80,Lücken in den Lieferketten,supply chains
+journalist,82,"Zentralbankpolitik (Geldmengenausweitung, zu viel Liquidität im Markt)",ecb
+journalist,82,Anlagenotstand (wegen der Niedrigzinsen kaum Anlagealternativen),low real interest rates
+journalist,82,Corona hat zahlreiche Lieferketten unterbrochen,supply chains
+journalist,82,so kam es zu einem Angebotsmangel,shortages
+journalist,82,bei gleichzeitig enormer Nachfrage,pent-up demand
+journalist,82,Die Lücken in den Lieferketten treten noch immer auf,supply chains
+journalist,82,"die Ukrainekrise, die zu enorm steigenden Energiepreisen ... geführt hat",energy
+journalist,82,auch Lebensmittelpreisen geführt hat,raw materials
+journalist,82,wobei einige Agrarrohstoffe auch wegen Klimafolgen und Stürme/Dürren teuer geworden sind,climate change
+journalist,82,dass allmählich die Löhne steigen,labor
+journalist,82,generell die Fachkräfte zunehmend fehlen,labor
+journalist,85,einen Angebotsschock auf den Energiemärkten erlebt haben,energy
+journalist,85,Die steigenden Energiepreise werden (nicht im selben Umfang) von den Unternehmen auf die Endkunden umgelegt,energy
+journalist,85,lange Zeit Störungen in den Lieferketten,supply chains
+journalist,85,durch die Zero-Covid Politik in China,china lockdown
+journalist,85,Inflationserwartungen eine ganz entscheidende Rolle für die Dynamik der Inflation,expectations
+journalist,85,ihre Preise über die Inflationserwartungen anzuheben. Das wurde massiv beobachtet,profiteering
+journalist,85,die lockere Geldpolitik der Notenbanken einen beschleunigenden Effekt gehabt,ecb
+journalist,87,Krieg,war
+journalist,87,Pandemie,corona
+journalist,87,die Niedrigzinspolitik der Zentralbanken,ecb
+journalist,91,Im Zuge der Corona-Pandemie wurden Lieferketten unterbrochen,supply chains
+journalist,91,die Lagerhaltung reduziert,shortages
+journalist,91,die Nachfrage gestaut,pent-up demand
+journalist,91,Aufgrund der umfangreichen staatlichen Hilfen stand damit im Zuge der Lockerungen ein eingeschränktes Angebot einer erhöhten Nachfrage gegenüber,fiscal programs
+journalist,91,Die Sanktionen und Unsicherheiten aus dem Ukrainekrieg haben in Europa zudem die Situation verschärft,sanctions
+journalist,91,Unsicherheiten aus dem Ukrainekrieg,uncertainties
+journalist,91,Dagegen ist in den USA ein angespannter Arbeitsmarkt ein wesentlicher Treiber,labor
+journalist,91,die Konjunkturpakete der Administrationen Trump und Biden die Nachfrage befeuert haben,fiscal programs
+journalist,91,Überdies haben sich De-Globalisierungstendenzen im Welthandel verstärkt,deglobalization
+journalist,93,Nachdem die Geldpolitik der EZB zunächst zu einer Vermögenspreisinflation geführt hat,ecb
+journalist,93,wirkt sich die Flutung der Märkte mit Liquidität nun auch auf die Konsumentenpreise aus,ecb
+journalist,93,"Die pandemiebedingte Kaufzurückhaltung hat anschließend dazu geführt, dass das auf den Konten der Bürger angesammelte Geld ... sich auf einmal auf die Märkte ergoss",pent-up demand
+journalist,93,auch die milliardenschweren Coronahilfen,fiscal programs
+journalist,95,Die Ukraine-Krise hat zum Preisanstieg für Energie aller Art geführt,energy
+journalist,95,Auch bestimmte Lebensmittel sind deswegen teurer geworden,raw materials
+journalist,95,Unterbrechung in den Lieferketten hat es aber schon vorher durch Corona gegeben,supply chains
+journalist,95,Auch der Fachkräftemangel,labor
+journalist,95,"die hohe Nachfrage nach bestimmten Leistungen, vor allem im Baubereich, hat zu Preisanstiegen geführt",pent-up demand
+journalist,96,Energiepreise treiben die Inflation.,energy
+journalist,96,Fachkräftemangel hilft nicht.,labor
+journalist,98,Die EZB hat die Geldmenge seit 2010 extrem ausgeweitet,ecb
+journalist,98,Eine derartige Geldschwemme legt immer die Basis für Inflation,ecb
+journalist,98,hohe Ersparnisse,pent-up demand
+journalist,98,Lieferengpässe,supply chains
+journalist,98,Nachholeffekt beim Konsum,pent-up demand
+journalist,98,Energieknappheit infolge des russischen Angriffs der Ukraine,energy
+journalist,101,die expansive Geldpolitik,ecb
+journalist,101,"Knappheiten, infolge der COVID Lockdowns",shortages
+journalist,101,die Energie Preissteigerung nach dem russischen Angriff auf die Ukraine,energy
+journalist,102,Die Störung von Lieferketten,supply chains
+journalist,102,die damit verbundene Verknappung des Angebots infolge der Pandemie,shortages
+journalist,102,die Verknappung des Energieangebots infolge des russischen Überfalls auf die Ukraine,energy
+journalist,102,die Stärkung der Nachfrage durch staatliche Corona-Hilfsprogramme (insbesondere in den USA),fiscal programs
+journalist,102,die lockere Geldpolitik der Notenbanken im Vorfeld der aktuellen Krisen,ecb
+journalist,103,Lieferkettenprobleme in Folge der Covid-Pandemie,supply chains
+journalist,103,Energiepreisschocks durch den Krieg in der Ukraine,energy
+journalist,103,zu lange Festhalten an der Niedrigzinspolitik der EZB,ecb
+journalist,104,"Höhere Energiekosten und damit einhergehende Kosten (Herstellung, Transport, Lagerung)",energy
+journalist,104,Verknappung von Produkten aufgrund von Lieferengpässen (entstanden durch Corona und andere Lieferschwierigkeiten),supply chains
+journalist,104,Mehr Käufer-Wettbewerb auf dem Weltmarkt: zB Chinesen oder Golfstaaten etc sind bereit mehr zu bezahlen und treiben dadurch die Preise von Gütern für alle,strong global economy
+journalist,104,Unternehmen wittern eine größere Gewinnmarge,profiteering
+journalist,105,Dieser Krieg und seine Folgen haben die Energiepreise förmlich explodieren lassen,energy
+journalist,105,betreffen die Lieferausfälle infolge des Krieges und damit verbunden starke Preissteigerungen auch andere wichtige Produkte wie etwa Stahl,supply chains
+journalist,105,"Ein weiterer Grund ist die Pandemie, die zu Lieferproblemen geführt hat",supply chains
+journalist,105,Die dadurch verursachte Verknappung von Rohstoffen/Produkten hat ebenfalls zu steigenden Preisen geführt,shortages
+journalist,105,Die Europäische Zentralbank hat mit ihrer ausufernden Null/Minuszinspolitik der vergangenen Jahre das Fundament für die jetzige Teuerungskrise geschaffen,ecb
+journalist,106,Russlands Angriff auf die Ukraine mit dem daraus folgenden rasanten Anstieg der Energiepreise in Deutschland und Europa,energy
+journalist,106,Probleme mit den weltweiten Lieferketten u.a. als Folge von Covid,supply chains
+journalist,107,Energiepreisanstieg durch den Krieg in der Ukraine,energy
+journalist,107,Folge oandemiebedingter aufgeschobener Käufe,pent-up demand
+journalist,107,steigender Preise durch Energie auch in allen Branchen von Lebensmittel bis Mode,energy
+journalist,108,Die weltweite wirtschaftliche Erholung nach der Corona-Pandemie,strong global economy
+journalist,108,Lieferkettenprobleme,supply chains
+journalist,108,Lieferengpässe,supply chains
+journalist,108,"der scharfe Anstieg der Energiepreise seit Herbst 2021, verschärft durch Russlands Krieg gegen die Ukraine",energy
+journalist,109,Die Lieferkettenprobleme im Zuge von Corona,supply chains
+journalist,109,sorgte der Ukraine-Krieg für einen rasanten Auftrieb der Engergiepreise auf breiter Front,energy
+journalist,109,was rasch auch auf die Tarifverhandlungen durchschlug,labor
+journalist,112,Lieferkettenprobleme infolge der weltweiten Corona-Krise,supply chains
+journalist,112,die Auswirkungen des Ukraine-Krieges auf die Energiemärkte,energy
+journalist,112,"Der stark gestiegene Preis für Öl, Gas und Strom treibt die Inflationsrate ganz besonders",energy
+journalist,112,wirkt sich die teure Energie auch auf die Preise für Lebensmittel aus,raw materials
+journalist,113,"Das """"billige Geld"""" der EZB hat den Anstieg der Inflation begünstigt",ecb
+journalist,113,es kam zu vielen Unsicherheiten,uncertainties
+journalist,113,und Knappheiten die teilweise noch lange andauern werden,shortages
+journalist,114,Insb. die dadurch massiv gestiegenen Energiepreise bedingen die sehr hohe Gesamtinflation,energy
+journalist,114,"Anfang des Jahres hat die EZB dann zu lange gezögert, mit veränderter Zinspolitik zu reagieren",ecb
