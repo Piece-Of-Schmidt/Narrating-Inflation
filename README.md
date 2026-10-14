@@ -1,5 +1,7 @@
 # Narrating Inflation
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23370574.svg)](https://doi.org/10.5281/zenodo.23370574)
+
 Replication materials for the research paper **"Narrating Inflation: How German Economic Journalists Explain Post-Covid Price Rises"**.
 
 The paper compares how German economic journalists and professional economists explain the 2022 inflation surge (survey, open-ended narratives) and how these explanations relate to newspaper coverage.
