@@ -33,6 +33,6 @@ The full-text newspaper articles are copyrighted and cannot be shared. Article-l
 
 ## Contact
 
-Tobias Schmidt
-TU Dortmund University
+Tobias Schmidt  
+TU Dortmund University  
 tobias3.schmidt@tu-dortmund.de
