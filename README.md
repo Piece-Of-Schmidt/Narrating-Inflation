@@ -1,6 +1,6 @@
 # Narrating Inflation
 
-Replication materials for **"Narrating Inflation: How German Economic Journalists Explain Post-Covid Price Rises"**, accepted at the *Journal of Economic Behavior & Organization* (JEBO).
+Replication materials for the research paper **"Narrating Inflation: How German Economic Journalists Explain Post-Covid Price Rises"**.
 
 The paper compares how German economic journalists and professional economists explain the 2022 inflation surge (survey, open-ended narratives) and how these explanations relate to newspaper coverage.
 
