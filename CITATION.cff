@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "If you use these data or code, please cite this repository (and the paper once published)."
+title: "Replication materials for 'Narrating Inflation: How German Economic Journalists Explain Post-Covid Price Rises'"
+type: dataset
+version: 1.0.0
+date-released: 2026-10-14
+license: CC-BY-NC-ND-4.0
+repository-code: "https://github.com/Piece-Of-Schmidt/Narrating-Inflation"
+authors:
+  - family-names: Schmidt
+    given-names: Tobias
+    affiliation: "TU Dortmund University"
+    orcid: "https://orcid.org/0000-0001-7330-4943"
+keywords:
+  - inflation
+  - narratives
+  - economic journalism
+  - survey
+  - large language models
+abstract: "Data and code replicating the analyses in 'Narrating Inflation' (Journal of Economic Behavior & Organization): survey responses of German economic journalists and economists, itemized inflation narratives, LLM-coded newspaper segments, and all figures and tables."
